@@ -9,19 +9,9 @@ Python is used to clean and transform the original Excel dataset, which is then 
 
 Project Components
 
-This repository includes:
+This repository includes: Python scripts for data cleaning and transformation, SQL dataset and queries for data exploration and analysis
 
-Python scripts for data cleaning and transformation
-
-SQL dataset and queries for data exploration and analysis
-
-Power BI report (.pbix) with three dashboards:
-
-Sales Performance
-
-Customer Analysis
-
-Product Analysis
+Power BI report (.pbix) with three dashboards: Sales Performance, Customer Analysis, Product Analysis
 
 Outcome
 

@@ -1,6 +1,7 @@
 Overview
 
 This project analyzes the sales data of a fictional superstore to generate insights that support business decision-making. The workflow includes data cleaning, exploratory analysis, and interactive data visualization.
+Download dataset: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 Methodology
 
